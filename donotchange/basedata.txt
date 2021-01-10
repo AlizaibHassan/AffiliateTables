@@ -1,0 +1,267 @@
+<div class="cg-choice-box-one cg-darkorange">
+<div class="cg-cb-row"><div class="cg-cb-items" id="product-8465">
+<a href="KinnLink2" class="cg-cb-img cg-aff-link" rel="nofollow" target="_blank">
+<img src="Kinnimg2" alt="KinnName2">
+</a>
+
+<div class="cg-cb-title">KinnName2</div>
+<div class="cg-cb-rate" style="--cg-rbl-rate-p:100%;"><span>10/10</span></div>
+<div class="cg-cb-content"></div>
+<div class="cg-cb-btn">
+<a href="KinnLink2" target="_blank" rel="nofollow" data-style="cg-btn-1" class="cg-btn cg-red cg-aff-link">Check Price</a>
+</div></div>
+
+
+<div class="cg-cb-items" id="product-8466">
+<a href="KinnLink1" class="cg-cb-img cg-aff-link" rel="nofollow" target="_blank">
+<img src="Kinnimg1" alt="KinnName1"></a>
+<div class="cg-cb-title">KinnName1</div><div class="cg-cb-rate" style="--cg-rbl-rate-p:100%;"><span>10/10</span></div>
+<div class="cg-cb-content"></div><div class="cg-cb-btn">
+<a href="KinnLink1" target="_blank" rel="nofollow" data-style="cg-btn-1" class="cg-btn cg-red cg-aff-link">Check Price</a>
+</div></div>
+
+<div class="cg-cb-items" id="product-8467">
+<a href="KinnLink3" class="cg-cb-img cg-aff-link" rel="nofollow" target="_blank">
+<img src="Kinnimg3" alt="KinnName3"></a>
+<div class="cg-cb-title">KinnName3</div><div class="cg-cb-rate" style="--cg-rbl-rate-p:99%;"><span>9.9/10</span></div>
+<div class="cg-cb-content"></div>
+<div class="cg-cb-btn"><a href="KinnLink3" target="_blank" rel="nofollow" data-style="cg-btn-1" class="cg-btn cg-red cg-aff-link">Check Price</a>
+</div></div></div></div>
+
+
+
+
+
+
+
+
+
+<div class="tenb-container">
+<table class="tenb-table">
+<thead class="tenb-table__thead">
+<tr>
+<th class="tenb-table__thead-image">IMAGE</th>
+<th class="tenb-table__thead-product">PRODUCT</th>
+</tr>
+</thead>
+<tbody class="tenb-table__tbody">
+<tr class="tenb-table__tbody-row">
+<td class="tenb-table__column-image">
+<div class="tenb-table__link-label">One</div>
+<img class="tenb-table__image" src="Kinnimg1" /></td>
+<td class="tenb-table__column-label">
+<div class="tenb-table__link-label-mobile"></div></td>
+<td class="tenb-table__column-product">
+<div><a href="KinnLink1" target="_blank" rel="nofollow noopener noreferrer">
+<span class="tenb-table__column-title">KinnName1</span>
+</a></div></td>
+<td class="tenb-table__column-button"><a class="tenb-table__button" href="KinnLink1" target="_blank" rel="nofollow noopener noreferrer">Check Price</a></td>
+</tr>
+
+<tr class="tenb-table__tbody-row">
+<td class="tenb-table__column-image">
+<div class="tenb-table__link-label">Two</div>
+<img class="tenb-table__image" src="Kinnimg2" /></td>
+<td class="tenb-table__column-label">
+<div class="tenb-table__link-label-mobile"></div></td>
+<td class="tenb-table__column-product">
+<div><a href="KinnLink2" target="_blank" rel="nofollow noopener noreferrer">
+<span class="tenb-table__column-title">KinnName2</span>
+</a></div></td>
+<td class="tenb-table__column-button"><a class="tenb-table__button" href="KinnLink2" target="_blank" rel="nofollow noopener noreferrer">Check Price</a></td>
+</tr>
+
+<tr class="tenb-table__tbody-row">
+<td class="tenb-table__column-image">
+<div class="tenb-table__link-label">Three</div>
+<img class="tenb-table__image" src="Kinnimg3" /></td>
+<td class="tenb-table__column-label">
+<div class="tenb-table__link-label-mobile"></div></td>
+<td class="tenb-table__column-product">
+<div><a href="KinnLink3" target="_blank" rel="nofollow noopener noreferrer">
+<span class="tenb-table__column-title">KinnName3</span>
+</a></div></td>
+<td class="tenb-table__column-button"><a class="tenb-table__button" href="KinnLink3" target="_blank" rel="nofollow noopener noreferrer">Check Price</a></td>
+</tr>
+
+<tr class="tenb-table__tbody-row">
+<td class="tenb-table__column-image">
+<div class="tenb-table__link-label">Four</div>
+<img class="tenb-table__image" src="Kinnimg4" /></td>
+<td class="tenb-table__column-label">
+<div class="tenb-table__link-label-mobile"></div></td>
+<td class="tenb-table__column-product">
+<div><a href="KinnLink4" target="_blank" rel="noopener noreferrer">
+<span class="tenb-table__column-title">KinnName4</span>
+</a></div></td>
+<td class="tenb-table__column-button"><a class="tenb-table__button" href="KinnLink4" target="_blank" rel="nofollow noopener noreferrer">Check Price</a></td>
+</tr>
+
+<tr class="tenb-table__tbody-row">
+<td class="tenb-table__column-image">
+<div class="tenb-table__link-label">Fiver</div>
+<img class="tenb-table__image" src="Kinnimg5" /></td>
+<td class="tenb-table__column-label">
+<div class="tenb-table__link-label-mobile"></div></td>
+<td class="tenb-table__column-product">
+<div><a href="KinnLink5" target="_blank" rel="noopener noreferrer">
+<span class="tenb-table__column-title">KinnName5</span>
+</a></div></td>
+<td class="tenb-table__column-button"><a class="tenb-table__button" href="KinnLink5" target="_blank" rel="nofollow noopener noreferrer">Check Price</a></td>
+</tr>
+
+<tr class="tenb-table__tbody-row">
+<td class="tenb-table__column-image">
+<div class="tenb-table__link-label">Six</div>
+<img class="tenb-table__image" src="Kinnimg6" /></td>
+<td class="tenb-table__column-label">
+<div class="tenb-table__link-label-mobile"></div></td>
+<td class="tenb-table__column-product">
+<div><a href="KinnLink6" target="_blank" rel="noopener noreferrer">
+<span class="tenb-table__column-title">KinnName6</span>
+</a></div></td>
+<td class="tenb-table__column-button"><a class="tenb-table__button" href="KinnLink6" target="_blank" rel="nofollow noopener noreferrer">Check Price</a></td>
+</tr>
+
+<tr class="tenb-table__tbody-row">
+<td class="tenb-table__column-image">
+<div class="tenb-table__link-label">Seven</div>
+<img class="tenb-table__image" src="Kinnimg7" /></td>
+<td class="tenb-table__column-label">
+<div class="tenb-table__link-label-mobile"></div></td>
+<td class="tenb-table__column-product">
+<div><a href="KinnLink7" target="_blank" rel="noopener noreferrer">
+<span class="tenb-table__column-title">KinnName7</span>
+</a></div></td>
+<td class="tenb-table__column-button"><a class="tenb-table__button" href="KinnLink7" target="_blank" rel="nofollow noopener noreferrer">Check Price</a></td>
+</tr>
+
+<tr class="tenb-table__tbody-row">
+<td class="tenb-table__column-image">
+<div class="tenb-table__link-label">Eight</div>
+<img class="tenb-table__image" src="Kinnimg8" /></td>
+<td class="tenb-table__column-label">
+<div class="tenb-table__link-label-mobile"></div></td>
+<td class="tenb-table__column-product">
+<div><a href="KinnLink8" target="_blank" rel="noopener noreferrer">
+<span class="tenb-table__column-title">KinnName8</span>
+</a></div></td>
+<td class="tenb-table__column-button"><a class="tenb-table__button" href="KinnLink8" target="_blank" rel="nofollow noopener noreferrer">Check Price</a></td>
+</tr>
+
+<tr class="tenb-table__tbody-row">
+<td class="tenb-table__column-image">
+<div class="tenb-table__link-label">Eight</div>
+<img class="tenb-table__image" src="Kinnimg9" /></td>
+<td class="tenb-table__column-label">
+<div class="tenb-table__link-label-mobile"></div></td>
+<td class="tenb-table__column-product">
+<div><a href="KinnLink9" target="_blank" rel="noopener noreferrer">
+<span class="tenb-table__column-title">KinnName9</span>
+</a></div></td>
+<td class="tenb-table__column-button"><a class="tenb-table__button" href="KinnLink9" target="_blank" rel="nofollow noopener noreferrer">Check Price</a></td>
+</tr>
+
+<tr class="tenb-table__tbody-row">
+<td class="tenb-table__column-image">
+<div class="tenb-table__link-label">Eight</div>
+<img class="tenb-table__image" src="KinnimgTen" /></td>
+<td class="tenb-table__column-label">
+<div class="tenb-table__link-label-mobile"></div></td>
+<td class="tenb-table__column-product">
+<div><a href="KinnLinkTen" target="_blank" rel="noopener noreferrer">
+<span class="tenb-table__column-title">KinnNameTen</span>
+</a></div></td>
+<td class="tenb-table__column-button"><a class="tenb-table__button" href="KinnLinkTen" target="_blank" rel="nofollow noopener noreferrer">Check Price</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
+
+
+<script type='application/ld+json'>
+{
+"@context": "http://schema.org",
+"@type": "ItemList",
+"name": "Your Keyword Goes Here",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"image": "Kinnimg1",
+"url": "jumplink1",
+"name": "KinnName1"
+},
+{
+"@type": "ListItem",
+"position": 2,
+"image": "Kinnimg2",
+"url": "jumplink2",
+"name": "KinnName2"
+},
+{
+"@type": "ListItem",
+"position": 3,
+"image": "Kinnimg3",
+"url": "jumplink3",
+"name": "KinnName3"
+},
+{
+"@type": "ListItem",
+"position": 4,
+"image": "Kinnimg4",
+"url": "jumplink4",
+"name": "KinnName4"
+},
+{
+"@type": "ListItem",
+"position": 5,
+"image": "Kinnimg5",
+"url": "jumplink5",
+"name": "KinnName5"
+},
+{
+"@type": "ListItem",
+"position": 6,
+"image": "Kinnimg6",
+"url": "jumplink6",
+"name": "KinnName6"
+},
+{
+"@type": "ListItem",
+"position": 7,
+"image": "Kinnimg7",
+"url": "jumplink7",
+"name": "KinnName7"
+},
+{
+"@type": "ListItem",
+"position": 8,
+"image": "Kinnimg8",
+"url": "jumplink8",
+"name": "KinnName8"
+},
+{
+"@type": "ListItem",
+"position": 9,
+"image": "Kinnimg9",
+"url": "jumplink9",
+"name": "KinnName9"
+},
+{
+"@type": "ListItem",
+"position": 10,
+"image": "KinnimgTen",
+"url": "jumplinkTen",
+"name": "KinnNameTen"
+}
+],
+"itemListOrder": "http://schema.org/ItemListOrderDescending",
+"numberOfItems": "10"
+}
+</script>
+
+
+

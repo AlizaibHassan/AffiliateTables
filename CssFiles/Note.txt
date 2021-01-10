@@ -1,0 +1,10 @@
+These CSS File are for the tables top ten and top 3
+
+Just Past These Code At Following Place
+
+Go To: WordPress Dashboard >> Appearance >> Customize >> Additional CSS
+
+
+regards
+Alizaib Hassan
+fb.com/alizaibhassan.azh (any questions)
