@@ -10,7 +10,7 @@ with open(filepath) as fp:
    cnt = 1
    while line:
 
-       if cnt == 1:
+       if cnt == 10:
           link="KinnLink"+"Ten"
        else:
           link="KinnLink"+str(cnt)
